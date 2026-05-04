@@ -1,9 +1,5 @@
 # Olá, me chamo Raphael👋 
 🎓 Atualmente estou cursando o 3º semestre de Ciência da Computação na FIAP, com bolsa estudantil por desempenho acadêmico!
-<div>
- <a href="https://github.com/raphaelcomph1">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcomph1&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 ## Aqui estao algumas Tecnologias que mais utilizo
 <table>
